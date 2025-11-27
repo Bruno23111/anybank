@@ -1,4 +1,4 @@
-![Imagem de capa do curso "Angular 19: aplicando interação entre componentes com inputs e outputs", que faz parte da formação "Angular 19". O logotipo do GitHub e o nome "/alura-cursos" estão no canto superior esquerdo, e o logotipo da Alura no canto superior direito. Na parte inferior direita, há uma indicação de que o curso faz parte da trilha de Front-end.](./thumb.png)
+https://github.com/alura-cursos/4456-angular-19-curso-2/blob/aula-06/thumb.png?raw=true
 
 # AnyBank
 
