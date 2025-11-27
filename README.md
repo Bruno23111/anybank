@@ -1,4 +1,5 @@
-https://github.com/alura-cursos/4456-angular-19-curso-2/blob/aula-06/thumb.png?raw=true
+<img width="1250" height="625" alt="image" src="https://github.com/user-attachments/assets/d82e35be-476a-4ec6-a220-a77285845847" />
+
 
 # AnyBank
 
